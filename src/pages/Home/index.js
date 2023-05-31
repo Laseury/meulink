@@ -22,8 +22,11 @@ export default function Home() {
     return(
       <div className="container-home">
 
+      
        <div className="Logo">
+        <div className='Foto'>
         <img src="/Akatsuki.png" alt="Akatsuki Logo"/>
+        </div>
         <h1>Akatsuki Links</h1>
         <span>Seu encurtador de links</span>
        </div>
